@@ -11,37 +11,16 @@ const bookmarks = [
   {
     title: "Media",
     links: [
-      { name: "Youtube", url: "https://youtube.com" },
-      { name: "Netflix", url: "https://netflix.com" },
-      { name: "Crunchyroll", url: "https://crunchyroll.com" },
-      {
-        name: "Amazon Prime",
-        url: "https://www.amazon.com/Amazon-Video",
-      },
-    ],
-  },
-  {
-    title: "Reddit",
-    links: [
-      { name: "/r/overwatch", url: "https://reddit.com/r/overwatch" },
-      {
-        name: "/r/pcmasterrace",
-        url: "https://reddit.com/r/pcmasterrace",
-      },
-      { name: "/r/me_irl", url: "https://reddit.com/r/me_irl" },
-      {
-        name: "/r/battlestations",
-        url: "https://reddit.com/r/battlestations",
-      },
-      { name: "/r/unixporn", url: "https://reddit.com/r/unixporn" },
-      { name: "/r/news", url: "https://reddit.com/r/news" },
+      { name: "Somos GBM", url: "https://www.youtube.com/watch?v=LqCyP2SDafs" },
+      { name: "SAP", url: "https://www.youtube.com/watch?v=k-Gs-2K_YU8" },
+      { name: "Digital Workforce", url: "https://www.youtube.com/watch?v=N0IQMx-1gb8" },
     ],
   },
   {
     title: "Social",
     links: [
-      { name: "Twitter", url: "https://twitter.com" },
-      { name: "Facebook", url: "https://facebook.com" },
+      { name: "Sitio Web", url: "https://www.gbm.net/" },
+      { name: "Facebook", url: "https://www.facebook.com/GBMCorp/" },
     ],
   },
 ];
